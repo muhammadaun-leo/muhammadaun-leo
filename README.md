@@ -7,4 +7,4 @@ Undergraduate Information Technology student at **Bahauddin Zakariya University 
   - **VeriGuard EDR:** Automated Linux file-event triage and active containment pipeline combining Wazuh FIM, custom YARA signatures, and VirusTotal v3 intelligence.
   - **Competitive Security:** Round 2 participant at **PakCrypt '26** (Air University, Islamabad); **Google Cybersecurity** certified.
 
-📫 **Contact:** [muhammadaun079@gmail.com] | [LinkedIn](https://www.linkedin.com/in/muhammad-aun-588730253/)
+📫 **Contact:** (mailto:muhammadaun079@gmail.com) | [LinkedIn](https://www.linkedin.com/in/muhammad-aun-588730253/)
